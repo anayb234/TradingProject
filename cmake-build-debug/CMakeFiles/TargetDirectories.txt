@@ -1,0 +1,3 @@
+/Users/anaybadlani/CLionProjects/TradingProject/cmake-build-debug/CMakeFiles/TradingProject.dir
+/Users/anaybadlani/CLionProjects/TradingProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/anaybadlani/CLionProjects/TradingProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
